@@ -16,6 +16,52 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+
+    <string name="dashboard_morning1">Tan temprano por aquí?</string>
+    <string name="dashboard_morning2">Pronto empezamos</string>
+    <string name="dashboard_morning3">Sigue durmiendo un poco más</string>
+    <string name="dashboard_morning4">Cacharreando ya?</string>
+    <string name="dashboard_morning5">Mejor déjalo para más tarde</string>
+    <string name="dashboard_morning_greeting1">Buenos días</string>
+    <string name="dashboard_morning_greeting2">Buen día</string>
+    <string name="dashboard_noon1">Seguro lo dejas bien guapo</string>
+    <string name="dashboard_noon2">Relájate tocando x aquí y x allá</string>
+    <string name="dashboard_noon3">Cuidado con los bugs de la rom</string>
+    <string name="dashboard_noon4">Procura no brickearme por favor</string>
+    <string name="dashboard_noon5">Cómo mola tu Setup!</string>
+    <string name="dashboard_noon_greeting1">Buenas tardes</string>
+    <string name="dashboard_early_night1">Ya le distes las gracias a DanipunK1?</string>
+    <string name="dashboard_early_night2">Que guapo te está quedando todo</string>
+    <string name="dashboard_early_night_greeting1">Buenas tardes</string>
+    <string name="dashboard_night3">Tienes muy buen gusto para los ajustes</string>
+    <string name="dashboard_night4">Un pequeño retoque y a dormir</string>
+    <string name="dashboard_night5">Me encanta esta Punky SupEx</string>
+    <string name="dashboard_night_greetings1">Buenas noches</string>
+    <string name="dashboard_midnight1">Por aquí a estas horas?</string>
+    <string name="dashboard_midnight2">Sueño? ...Nah! mejor un poco de cacharreo!</string>
+    <string name="dashboard_midnight3">Este OS se autodestruirá en 3, 2, 1...</string>
+    <string name="dashboard_midnight4">Nada como trastear de madrugada</string>
+    <string name="dashboard_midnight5">Dale caña! tampoco es tan tarde</string>
+    <string name="dashboard_random1">Hey         </string>
+    <string name="dashboard_random2">Que pasa    </string>
+    <string name="dashboard_random3">Quillo      </string>
+    <string name="dashboard_random4">Tú          </string>
+    <string name="dashboard_random5">Colega      </string>
+    <string name="dashboard_random6">Oye         </string>
+    <string name="dashboard_random_greetings1">Quizás encuentres lo que buscas</string>
+    <string name="dashboard_random_greetings2">No te pierdas entre tantas opciones</string>
+    <string name="dashboard_random_greetings3">Que pechá de features</string>
+    <string name="dashboard_random_greetings4">Esta rom está petada de cosas chulas</string>
+    <string name="settings_random1">Qué andas buscando?</string>
+    <string name="settings_random2">Dale aquí pa encontrar algo</string>
+    <string name="settings_random3">Usa la lupa</string>
+    <string name="settings_random4">Si no lo encuentras... pincha aquí</string>
+    <string name="settings_random5">No te vuelvas loco buscando</string>
+    <string name="settings_random6">Esta barra existe, no te cortes</string>
+    <string name="default_user">Usuario</string>
+
+
     <string name="yes" msgid="1999566976857398962">"Sí"</string>
     <string name="no" msgid="5541738710521607130">"No"</string>
     <string name="create" msgid="986997212165228751">"Crear"</string>
